@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="900" alt="Banner"/>
+  <img src="https://github.com/ShiwamMishra-0599k/Welcome-to-my-GitHub.git" width="900" alt="Welcome Animation"/>
 </p>
-
 
 # 👋 Hi, I'm Shiwam Mishra  
 ### 💻 Data Science Intern | Python | SQL | Power BI | Machine Learning  
