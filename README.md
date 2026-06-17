@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I'm Shiwam Mishra  
-### 💻 Data Science Intern | Python | SQL | Power BI | Machine Learning  
+### 💻 AI ML Engineer | Python | SQL | Power BI | Machine Learning  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShiwamMishra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -12,11 +12,13 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **advanced ML techniques & data visualization**  
-- 💡 Ask me about **Python, SQL, Power BI, and Machine Learning**  
+Data Scientist with AI/ML skills who builds production-grade machine learning systems — from LLM-powered multi-agent pipelines to classical predictive models and BI dashboards. I care about shipping AI that works at scale, not just in a notebook.
+- 🔭 Currently building **agentic automation** and real-time **data intelligence pipelines** serving 1,000+ production users  
+- 💡 Ask me about **Python, SQL, Power BI, Machine Learning and Gen AI**
+- 🧠 Experienced across the **full ML lifecycle — data engineering, model fine-tuning, RAG, deployment, and monitoring**
+- 📊 Equally comfortable in a **Jupyter notebook and a Power BI dashboard*** — I like connecting the model to the business outcome
 - 🎯 Goal: **Build impactful data-driven projects that turn raw data into insights**  
-- ⚡ Fun fact: *I can spend hours cleaning messy datasets and still call it fun!*  
-
+- ⚡ Fun fact: **I can spend hours cleaning messy datasets and still call it fun**
 ---
 
 ## 🛠️ Skills & Tools  
