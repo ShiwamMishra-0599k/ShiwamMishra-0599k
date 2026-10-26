@@ -29,8 +29,6 @@ B.Pharm graduate (BIT Mesra) turned Data Scientist and AI Engineer. I build mach
 ## 🎨 Featured Projects
 🔹 [📊 TabulaVibe AI](https://github.com/ShiwamMishra-0599k/tabulavibe-ai): CSV/Excel → data-quality checks, KPI dashboards and PDF/PowerPoint reports, with an optional AI analyst (FastAPI + pandas + React/TypeScript). [Live demo](https://tabulavibe-ai.vercel.app)
 
-🔹 [💉 H1N1 & Seasonal Flu Vaccine Prediction](https://github.com/ShiwamMishra-0599k/VaccinePred_final-): leak-safe Scikit-learn pipelines and 5 tuned models; XGBoost test ROC-AUC 0.835 (H1N1) and 0.861 (seasonal)
-
 🔹 [📈 Binance Futures Trading Bot](https://github.com/ShiwamMishra-0599k/binance-futures-trading-bot): Python CLI for the Binance Futures Testnet with layered design and Decimal-based validation
 
 🔹 [🏦 Bank Loan Report](https://github.com/ShiwamMishra-0599k/Bank-Loan-Report): SQL + Python + Power BI dashboard
