@@ -1,44 +1,44 @@
-
-
-# 👋 Hi, I'm Shiwam Mishra  
-### 💻 AI ML Engineer | Python | SQL | Power BI | Machine Learning  
+# 👋 Hi, I'm Shiwam Mishra
+### 💻 Data Scientist & AI Engineer | Python | SQL | Machine Learning | Gen AI
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShiwamMishra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ShiwamMishra?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/ShiwamMishra?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=ShiwamMishra-0599k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ShiwamMishra-0599k?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/ShiwamMishra-0599k?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-Data Scientist with AI/ML skills who builds production-grade machine learning systems — from LLM-powered multi-agent pipelines to classical predictive models and BI dashboards. I care about shipping AI that works at scale, not just in a notebook.
-- 🔭 Currently building **agentic automation** and real-time **data intelligence pipelines** serving 1,000+ production users  
-- 💡 Ask me about **Python, SQL, Power BI, Machine Learning and Gen AI**
-- 🧠 Experienced across the **full ML lifecycle — data engineering, model fine-tuning, RAG, deployment, and monitoring**
-- 📊 Equally comfortable in a **Jupyter notebook and a Power BI dashboard*** — I like connecting the model to the business outcome
-- 🎯 Goal: **Build impactful data-driven projects that turn raw data into insights**  
+B.Pharm graduate (BIT Mesra) turned Data Scientist and AI Engineer. I build machine-learning models, LLM-powered apps and data tools with Python, FastAPI and React.
+- 🔭 Currently building **TabulaVibe AI**, a web app that turns CSV/Excel files into data-quality checks, KPI dashboards and reports
+- 💡 Ask me about **Python, SQL, Machine Learning, FastAPI and Gen AI (LLM APIs, RAG, agents)**
+- 📊 Comfortable in both a **Jupyter notebook and a BI dashboard**, and I like connecting the model to the business outcome
+- 🎯 Goal: **build useful, well-tested AI products that turn raw data into decisions**
 - ⚡ Fun fact: **I can spend hours cleaning messy datasets and still call it fun**
+
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,sklearn,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,redis,docker,sklearn,mysql,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-## 🎨 Featured Projects  
-🔹 [🏦 Bank Loan Report (SQL + Python + Power BI Dashboard)](https://github.com/ShiwamMishra-0599k/Bank-Loan-Report.git) 
+## 🎨 Featured Projects
+🔹 [📊 TabulaVibe AI](https://github.com/ShiwamMishra-0599k/tabulavibe-ai): CSV/Excel → data-quality checks, KPI dashboards and PDF/PowerPoint reports, with an optional AI analyst (FastAPI + pandas + React/TypeScript). [Live demo](https://tabulavibe-ai.vercel.app)
 
+🔹 [💉 H1N1 & Seasonal Flu Vaccine Prediction](https://github.com/ShiwamMishra-0599k/VaccinePred_final-): leak-safe Scikit-learn pipelines and 5 tuned models; XGBoost test ROC-AUC 0.835 (H1N1) and 0.861 (seasonal)
+
+🔹 [📈 Binance Futures Trading Bot](https://github.com/ShiwamMishra-0599k/binance-futures-trading-bot): Python CLI for the Binance Futures Testnet with layered design and Decimal-based validation
+
+🔹 [🏦 Bank Loan Report](https://github.com/ShiwamMishra-0599k/Bank-Loan-Report): SQL + Python + Power BI dashboard
 
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shiwammishra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiwammishra01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shiwammishra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: shiwammishra01" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiwammishra-0599k&show_icons=true&locale=en&layout=compact" alt="shiwammishra-0599k" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiwammishra-0599k&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
